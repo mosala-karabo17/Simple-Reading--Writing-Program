@@ -1,0 +1,10 @@
+C:\Users\Karabo\source\repos\ReadAndWriteGUI\ReadAndWriteGUI\bin\Debug\ReadAndWriteGUI.exe.config
+C:\Users\Karabo\source\repos\ReadAndWriteGUI\ReadAndWriteGUI\bin\Debug\ReadAndWriteGUI.exe
+C:\Users\Karabo\source\repos\ReadAndWriteGUI\ReadAndWriteGUI\bin\Debug\ReadAndWriteGUI.pdb
+C:\Users\Karabo\source\repos\ReadAndWriteGUI\ReadAndWriteGUI\obj\Debug\ReadAndWriteGUI.csprojAssemblyReference.cache
+C:\Users\Karabo\source\repos\ReadAndWriteGUI\ReadAndWriteGUI\obj\Debug\ReadAndWriteGUI.Form1.resources
+C:\Users\Karabo\source\repos\ReadAndWriteGUI\ReadAndWriteGUI\obj\Debug\ReadAndWriteGUI.Properties.Resources.resources
+C:\Users\Karabo\source\repos\ReadAndWriteGUI\ReadAndWriteGUI\obj\Debug\ReadAndWriteGUI.csproj.GenerateResource.cache
+C:\Users\Karabo\source\repos\ReadAndWriteGUI\ReadAndWriteGUI\obj\Debug\ReadAndWriteGUI.csproj.CoreCompileInputs.cache
+C:\Users\Karabo\source\repos\ReadAndWriteGUI\ReadAndWriteGUI\obj\Debug\ReadAndWriteGUI.exe
+C:\Users\Karabo\source\repos\ReadAndWriteGUI\ReadAndWriteGUI\obj\Debug\ReadAndWriteGUI.pdb
